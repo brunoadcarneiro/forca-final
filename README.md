@@ -1,0 +1,2 @@
+# forca-final
+forca finalizada
